@@ -1,0 +1,16 @@
+{
+    "name": "kruxsoft/contact",
+    "description": "contact form",
+    "authors": [
+        {
+            "name": "thomasp",
+            "email": "thomasp@kruxsoft.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+		"psr-4": {
+			"Kruxsoft\\ContactForm\\": "src/"
+		}
+    }	
+}
