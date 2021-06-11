@@ -1,5 +1,4 @@
 <?php
-// lastgrade\contactform\src\Http\Controllers\ContactFormController.php
 namespace LastGrade\ContactForm\Http\Controllers;
 
 use App\Http\Controllers\Controller;

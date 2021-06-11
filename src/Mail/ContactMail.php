@@ -1,5 +1,4 @@
 <?php
-
 namespace LastGrade\ContactForm\Mail;
 
 use Illuminate\Bus\Queueable;
