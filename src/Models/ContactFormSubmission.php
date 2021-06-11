@@ -1,6 +1,6 @@
 <?php
-// Kruxsoft\Contactform\src\Models\ContactForm.php
-namespace Kruxsoft\Contactform\Models;
+// lastgrade\contactform\src\Models\ContactForm.php
+namespace LastGrade\ContactForm\Models;
 
 use Illuminate\Database\Eloquent\Model;
 

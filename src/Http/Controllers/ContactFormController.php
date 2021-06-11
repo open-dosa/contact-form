@@ -1,12 +1,12 @@
 <?php
-// Kruxsoft\Contactform\src\Http\Controllers\ContactFormController.php
-namespace Kruxsoft\ContactForm\Http\Controllers;
+// lastgrade\contactform\src\Http\Controllers\ContactFormController.php
+namespace LastGrade\ContactForm\Http\Controllers;
 
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
-use Kruxsoft\ContactForm\Models\ContactFormSubmission;
+use LastGrade\ContactForm\Models\ContactFormSubmission;
 use Illuminate\Support\Facades\Mail;
-use Kruxsoft\ContactForm\Mail\ContactMail;
+use LastGrade\ContactForm\Mail\ContactMail;
 
 class ContactFormController extends Controller {
 

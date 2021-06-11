@@ -1,16 +1,16 @@
 {
-    "name": "kruxsoft/contact",
+    "name": "lastgrade/contactform",
     "description": "contact form",
     "authors": [
         {
-            "name": "thomasp",
-            "email": "thomasp@kruxsoft.com"
+            "name": "thomaspaulson",
+            "email": "thomas.paulson@hotmail.com"
         }
     ],
     "require": {},
     "autoload": {
 		"psr-4": {
-			"Kruxsoft\\ContactForm\\": "src/"
+			"LastGrade\\ContactForm\\": "src/"
 		}
     }	
 }

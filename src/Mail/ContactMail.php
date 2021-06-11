@@ -1,12 +1,12 @@
 <?php
 
-namespace Kruxsoft\ContactForm\Mail;
+namespace LastGrade\ContactForm\Mail;
 
 use Illuminate\Bus\Queueable;
 use Illuminate\Mail\Mailable;
 use Illuminate\Queue\SerializesModels;
 use Illuminate\Contracts\Queue\ShouldQueue;
-use Kruxsoft\ContactForm\Models\ContactFormSubmission;
+use LastGrade\ContactForm\Models\ContactFormSubmission;
 
 class ContactMail extends Mailable
 {
